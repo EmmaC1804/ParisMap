@@ -1,0 +1,43 @@
+landmark,Eiffel Tower,151,219
+landmark,Louvre Museum,353,200
+landmark,Arc de Triomphe,154,106
+landmark,Norte-Dame,411,250
+landmark,Palais Garnier,328,124
+landmark,The Centre Pompidou,424,196
+landmark,Musée d'Orsay,297,204
+landmark,Sainte-Chapelle,380,233
+landmark,Pont Alexandre III,241,176
+landmark,Place de la Concarde,274,160
+landmark,Panthéon,393,296
+landmark,Montparnasse Tower,282,332
+landmark,Grand Palais,234,161
+landmark,Place des Vosges,483,233
+landmark,Musée Rodin,251,239
+landmark,Jardin des Tuileries,302,177
+landamrk,Luxembourg Gardens,347,299
+landmark,Seine River,574,419
+landmark,Champs-Elysees,184,145
+landmark,Musée Marmottan Monet,19,213
+landmark,Catacombs of Paris,331,392
+landmark,Parc des Buttes-Chaumont,567,57
+link,Musée Marmottan Monet,Arc de Triomphe,3.0
+link,Arc de Triomphe,Champs-Elysees,1.4
+link,Champs-Elysees,Eiffel Tower,1.6
+link,Champs-Elysees,Grand Palais,0.3
+link,Grand Palais,Pont Alexandre III,2.3
+link,Pont Alexandre III,Musée Rodin,1.1
+link,Pont Alexandre III,Place de la Concarde,0.6
+link,Place de la Concarde,Palais Garnier,1.2
+link,Palais Garnier,Parc des Buttes-Chaumont,4.1
+link,Place de la Concarde,Jardin des Tuileries,0.35
+link,Jardin des Tuileries,Musée d'Orsay,0.3
+link,Musée d'Orsay,Louvre Museum,1.0
+link,Louvre Museum,The Centre Pompidou,1.2
+link,The Centre Pompidou,Place des Vosges,1.2
+link,Place des Vosges,Seine River,3.2
+link,Louvre Museum,Sainte-Chapelle,0.95
+link,Sainte-Chapelle,Norte-Dame,0.55
+link,Norte-Dame,Panthéon,0.9
+link,Sainte-Chapelle,Luxembourg Gardens,1.1
+link,Luxembourg Gardens,Montparnasse Tower,1.1
+link,Montparnasse Tower,Catacombs of Paris,1.3
